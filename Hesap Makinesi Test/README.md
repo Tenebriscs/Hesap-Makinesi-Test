@@ -12,7 +12,7 @@ Bu proje, basit bir hesap makinesi kontrolcüsü için birim testleri içerir.
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/username/unit-test-project.git
+   git clone https://github.com/username/unit-test.git
    cd unit-test-project
    ```
 
